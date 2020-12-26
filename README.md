@@ -20,7 +20,11 @@
 
 ## Papers
 https://dl.acm.org/doi/10.1145/3123266.3123444
-https://www.hindawi.com/journals/cin/2020/8875426/
+https://www.hindawi.com/journals/cin/2020/8875426/ 
+
+## Review 
+https://braininformatics.springeropen.com/articles/10.1186/s40708-020-00109-x
+https://stanford.edu/~knutson/nfc/hakim18.pdf
 
 ## Resources 
 https://www.bitbrain.com/blog/ai-eeg-data-processing
